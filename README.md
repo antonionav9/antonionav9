@@ -20,4 +20,4 @@ Databases through SQL, I also have knowledge of HTML and CSS.
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/Español-navasantonio187@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
+![Email](https://img.shields.io/badge/Español-navasantonio187@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
