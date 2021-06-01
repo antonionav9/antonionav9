@@ -10,6 +10,14 @@ Databases through SQL, I also have knowledge of HTML and CSS.
 
 💬 Ask me about anything related to multiplatform app developer.
 
-📫 You can contact me here :
-- [My Linkedin Profile](https://www.linkedin.com/in/antonio-navas/)
+## Skills:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 
+## Find me at:
+
+### Spanish
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antonio_Navas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/antonio-navas/)
+
+## Contact me:
+
+[![Email](https://img.shields.io/badge/Español-navasantonio187@gmail.com-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]
