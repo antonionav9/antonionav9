@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**antonionav9/antonionav9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**antonionav9/antonionav9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ⚡ I'm Antonio Navas, from sunny Seville, in the south of Spain (Europe). I'm an multiplatform app developer in progress ⌛.
 
